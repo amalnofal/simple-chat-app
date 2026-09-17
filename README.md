@@ -24,9 +24,19 @@ State management is handled efficiently using **Cubit** to keep the business log
 
 ## 📸 Screenshots
 
-| Login | Register | Real-time Chat |
-| :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/ef561392-0b88-4706-9d6e-7b294c898234" width="250"> | <img src="https://github.com/user-attachments/assets/e201a659-ff7c-45cb-8eab-f87867e6b085" width="250"> | <img src="https://github.com/user-attachments/assets/37588549-179d-4ca3-913d-959fce8388cc" width="400"> |
+<div align="center">
+
+### Auth Screens
+
+| Login | Register |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/ef561392-0b88-4706-9d6e-7b294c898234" width="220"> | <img src="https://github.com/user-attachments/assets/e201a659-ff7c-45cb-8eab-f87867e6b085" width="220"> |
+
+### Real-time Chat Demo
+
+<img src="https://github.com/user-attachments/assets/37588549-179d-4ca3-913d-959fce8388cc" width="500" alt="Real-time Chat Demo">
+
+</div>
 
 ## 📂 Folder Structure
 
